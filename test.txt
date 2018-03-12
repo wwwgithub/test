@@ -1,3 +1,5 @@
 ﻿#include<>
 void main(){
+    int i;
+    char c;
 }
