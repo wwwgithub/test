@@ -1,5 +1,7 @@
 ﻿#include<>
 void main(){
     int i;
-    char c; long l;
+    char c;
+    long l;
+    bool b;
 }
